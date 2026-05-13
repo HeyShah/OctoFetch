@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7405",
+  "folder": "YouTube__watch_20260513212509_70689c",
+  "base_name": "Inside_MrBeast_s_YouTube_Machine_NdjcGrpNSF4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HeyShah/OctoFetch/releases/tag/co-releases-v1-7405",
+  "files": [
+    {
+      "name": "Inside_MrBeast_s_YouTube_Machine_NdjcGrpNSF4_1080p.mp4",
+      "url": "https://github.com/HeyShah/OctoFetch/releases/download/co-releases-v1-7405/Inside_MrBeast_s_YouTube_Machine_NdjcGrpNSF4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/HeyShah/OctoFetch/releases/assets/419633198",
+      "id": 419633198,
+      "size": 430270745,
+      "download_count": 0
+    }
+  ]
+}
