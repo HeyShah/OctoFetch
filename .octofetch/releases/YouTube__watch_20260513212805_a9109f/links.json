@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5558",
+  "folder": "YouTube__watch_20260513212805_a9109f",
+  "base_name": "If_I_Get_Caught_The_Motion_Rig_Gets_Stronger_imyj5uvzNhM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HeyShah/OctoFetch/releases/tag/co-releases-v1-5558",
+  "files": [
+    {
+      "name": "If_I_Get_Caught_The_Motion_Rig_Gets_Stronger_imyj5uvzNhM_720p.mp4",
+      "url": "https://github.com/HeyShah/OctoFetch/releases/download/co-releases-v1-5558/If_I_Get_Caught_The_Motion_Rig_Gets_Stronger_imyj5uvzNhM_720p.mp4",
+      "api_url": "https://api.github.com/repos/HeyShah/OctoFetch/releases/assets/419634852",
+      "id": 419634852,
+      "size": 753945080,
+      "download_count": 0
+    }
+  ]
+}
