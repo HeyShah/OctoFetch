@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2917",
+  "folder": "YouTube__watch_20260513211352_93f757",
+  "base_name": "I_Lived_Outside_The_Police_Station_In_Schedule_1_1Io_bP8U5iY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HeyShah/OctoFetch/releases/tag/co-releases-v1-2917",
+  "files": [
+    {
+      "name": "I_Lived_Outside_The_Police_Station_In_Schedule_1_1Io_bP8U5iY_720p.mp4",
+      "url": "https://github.com/HeyShah/OctoFetch/releases/download/co-releases-v1-2917/I_Lived_Outside_The_Police_Station_In_Schedule_1_1Io_bP8U5iY_720p.mp4",
+      "api_url": "https://api.github.com/repos/HeyShah/OctoFetch/releases/assets/419625608",
+      "id": 419625608,
+      "size": 146391908,
+      "download_count": 0
+    }
+  ]
+}
